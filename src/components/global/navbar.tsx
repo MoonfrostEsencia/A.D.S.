@@ -22,7 +22,7 @@ const Navbar = (props: Props) => {
     </nav>
     <aside className="flex items-center gap-4">
       <a href='tel:+9459060016'>
-      <button className="shadow-[0_0_0_3px_#000000_inset] px-6 py-2 bg-transparent border border-black dark:border-white dark:text-white text-black rounded-lg font-bold transform hover:-translate-y-1 transition duration-400">
+      <button className="shadow-[0_0_0_3px_#000000_inset] px-6 py-2 bg-transparent border border-white text-white  rounded-lg font-bold transform hover:-translate-y-1 transition duration-400">
   Get Started
 </button>
 </a>
