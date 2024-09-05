@@ -10,8 +10,8 @@ import css from "styled-jsx/css";
 const font = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Creativa Gx",
-  description: "Welcome to Creativa Gx",
+  title: "Abhilo Delivery Service",
+  description: "From efficient bike rides 🚲 to affordable package delivery 📦, and reliable freight services 🚚, we provide a wide range of solutions to meet every requirement in Karsog. Explore our all-in-one service offerings designed to make your life easier and more convenient.",
 };
 
 export default function RootLayout({
