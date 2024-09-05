@@ -10,7 +10,7 @@ export function AppleCardsCarouselDemo() {
 
   return (
     <div className="w-full h-full py-20">
-      <h2 className="max-w-7xl text-center pl-2 mx-auto text-m md:text-2xl font-bold text-neutral-800 dark:text-neutral-200 ">
+      <h2 className="max-w-7xl text-center pl-2 mx-auto text-m md:text-2xl font-bold text-neutral-200 ">
       From efficient bike rides 🚲 to affordable package delivery 📦, and reliable freight services 🚚, we provide a wide range of solutions to meet every requirement in Karsog. Explore our all-in-one service offerings designed to make your life easier and more convenient.
 </h2>
       <Carousel items={cards} />
