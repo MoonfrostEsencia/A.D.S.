@@ -77,7 +77,7 @@ export default function Home() {
         <div className=" mt-[-100px] items-center px-4 ">
 
           <div className=" h-[20rem]  flex justify-center  items-center px-4 ">
-            <div className="mx-auto  font-normal mt-[-40px] text-white ">
+            <div className="mx-auto  font-normal mt-[-40px]  ">
               <TextGenerateEffect words={textwords} />
             </div>
           </div>
