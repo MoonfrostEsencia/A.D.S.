@@ -8,7 +8,7 @@ export function About1() {
               <div className="container mx-auto px-11">
                   <p
                      
-                      className="mx-auto text-3xl lg:text-5xl max-w-5xl"
+                      className="mx-auto text-2xl lg:text-5xl max-w-5xl"
                   >
                   
                       
